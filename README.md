@@ -1,6 +1,7 @@
-Markdown
+
 
 Classificando a Qualidade de Vinhos com Machine Learning
+
 Este repositório contém o projeto do **Tech Challenge**, desenvolvido como atividade obrigatória para a conclusão da fase corrente. O objetivo principal é utilizar a inteligência artificial para prever se um vinho possui alta qualidade com base em suas características físico-químicas.
 
 Objetivo do Desafio
